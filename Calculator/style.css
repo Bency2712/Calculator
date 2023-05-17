@@ -36,7 +36,7 @@ justify-content: center;
     color: #fff;
     cursor: pointer;
     margin: 10px;
-    background-color: #767d7d;
+    background-color: #373939;
 }
 
 form .display
@@ -66,6 +66,6 @@ form input.equal
 form input.operator
 {
     color: #0c0c0c;
-    background-color: #f7ab08;
+    background-color: #6cdce0;
     
 }
